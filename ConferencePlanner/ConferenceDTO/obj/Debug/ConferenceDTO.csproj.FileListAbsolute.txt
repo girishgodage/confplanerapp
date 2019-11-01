@@ -1,0 +1,7 @@
+C:\DotnetCore\ConferenceApp\ConferencePlanner\ConferenceDTO\bin\Debug\ConferenceDTO.dll
+C:\DotnetCore\ConferenceApp\ConferencePlanner\ConferenceDTO\bin\Debug\ConferenceDTO.pdb
+C:\DotnetCore\ConferenceApp\ConferencePlanner\ConferenceDTO\bin\Debug\System.ComponentModel.Annotations.dll
+C:\DotnetCore\ConferenceApp\ConferencePlanner\ConferenceDTO\obj\Debug\ConferenceDTO.csproj.CopyComplete
+C:\DotnetCore\ConferenceApp\ConferencePlanner\ConferenceDTO\obj\Debug\ConferenceDTO.dll
+C:\DotnetCore\ConferenceApp\ConferencePlanner\ConferenceDTO\obj\Debug\ConferenceDTO.pdb
+C:\DotnetCore\ConferenceApp\ConferencePlanner\ConferenceDTO\obj\Debug\ConferenceDTO.csprojAssemblyReference.cache
